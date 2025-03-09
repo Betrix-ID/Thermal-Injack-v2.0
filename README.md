@@ -4,7 +4,7 @@
 adalah Shell script C yang saya bikin untuk Meprioritaskan suatu Mode Thermal [ Gaming , Balanced , Save battery ]
 
 ## ⚠️ Notes :
-   > Bukan disable thermal atau semacan nya, script ini hanya mengatur beberapa kode CMD, Settings put and Device Config agar thermal akan lebih lama terdeteksi Throttling oleh sistem
+   > Script ini nggak matiin thermal atau semacamnya. Cuma nge-tweak beberapa perintah CMD, settings put, dan device config biar sistem thermal lebih lama nge-trigger throttling, jadi performa bisa lebih stabil sebelum kena batas suhu.
 
 ## ⚠️Notes Efek :
 - Soomth UI
