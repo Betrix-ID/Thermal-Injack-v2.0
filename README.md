@@ -1,7 +1,10 @@
 ![Joy text](/Ti/img/IFS.png)
 
 # Thermal Injack v2.0 🍃
-adalah Shell script C ini saya bikin untuk Meprioritaskan suatu Mode Thermal [ Gaming , Balanced , Save battery ]
+adalah Shell script C yang saya bikin untuk Meprioritaskan suatu Mode Thermal [ Gaming , Balanced , Save battery ]
+
+## ⚠️ Notes :
+   > Bukan disable thermal atau semacan nya, script ini hanya mengatur beberapa kode CMD, Settings put and Device Config agar thermal akan lebih lama terdeteksi Throttling oleh sistem
 
 ## ⚠️Notes Efek :
 - Soomth UI
